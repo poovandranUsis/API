@@ -1,10 +1,42 @@
-{
-    "id": "1",
-    "backgroundColor": "#FFC0CB",
-    "titleColor": "#34495e",
-    "textfieldColor": "#F33A6A",
-    "loginColor": "#FF69B4",
-    "signinColor": "##ffffff",
-    "logintextColor": "#17202a",
-    "signintextColor": "#000000"
-}
+[
+    {
+        "id": "1",
+        "backgroundColor": "#339fff",
+        "titleColor": "#ffffff",
+        "textfieldColor": "#ffffff",
+        "loginColor": "#0000FF",
+        "signinColor": "#000000",
+        "logintextColor": "#FFFFFF",
+        "signintextColor": "#FFFFFF"
+    },
+    {
+        "id": "2",
+        "backgroundColor": "#28b463",
+        "titleColor": "#ffffff",
+        "textfieldColor": "#81A57C",
+        "loginColor": "#00FF00",
+        "signinColor": "#ffffff",
+        "logintextColor": "#17202a",
+        "signintextColor": "#000000"
+    },
+    {
+        "id": "3",
+        "backgroundColor": "#fdfefe",
+        "titleColor": "#34495e",
+        "textfieldColor": "#D3D3D3",
+        "loginColor": "#000000",
+        "signinColor": "#000000",
+        "logintextColor": "#ffffff",
+        "signintextColor": "#ffffff"
+    },
+    {
+        "id": "4",
+        "backgroundColor": "#FFC0CB",
+        "titleColor": "#34495e",
+        "textfieldColor": "#F33A6A",
+        "loginColor": "#FF69B4",
+        "signinColor": "#ffffff",
+        "logintextColor": "#17202a",
+        "signintextColor": "#000000"
+    }
+]
